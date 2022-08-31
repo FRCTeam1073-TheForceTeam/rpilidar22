@@ -12,7 +12,7 @@ Pre-season programming, testing, and documentation for FRC Team 1073's LiDAR uni
 
 Use [WPILib.py](http://wpilibpi.local/) to connect with the Raspberry PI. 
 
-Login Credentials:
+*Login Credentials:*
 ```bash
 username: pi
 password: raspberry
@@ -26,6 +26,9 @@ password: raspberry
 
 ## Support
 Please email the contributors directly for answers to queries on this project or its usage. 
+
+## Project Status
+**In Pre-Season Development**
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
