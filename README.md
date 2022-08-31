@@ -3,7 +3,7 @@ RPLidar A2M6 processing for WPILib.py on Raspberry PI
 ## Project Status
 **In Pre-Season Development**
 ## Project Description
-Pre-season programming, testing, and documentation for FRC Team 1073's LiDAR unit. Using serial ports to test the unit outside of the robot's environment, this project has the final goal of creating a part of an advanced sensor system that can eventually be integrated into the team's '22-'23 robot for the autonomous period and extended Network Tables feedback. 
+Pre-season programming, testing, and documentation for FRC Team 1073's LiDAR unit. Off-loading on a Raspberry PI outside of the robot's environment, this project has the final goal of creating a part of an advanced sensor system that can eventually be integrated into the team's '22-'23 robot for the autonomous period and extended Network Tables feedback. 
 ## T.O.C.
 *will update this section later*
 ## Installation
