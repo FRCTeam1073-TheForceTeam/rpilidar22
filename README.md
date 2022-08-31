@@ -10,7 +10,8 @@ Pre-season programming, testing, and documentation for FRC Team 1073's LiDAR uni
 Needed:
 - [puTTY] (https://www.putty.org/), ssh & telenet product that aids in a serial port connection outside of the roborio.  
 - [Repository for LiDAR-based SLAM in Python] (https://github.com/122004/BreezySLAM). The RP Lidar libraries are in C++, so this is needed as our robot uses primarily Java for our subsystems and Python for our sensors. **Special thanks to [Atsushi Sakai] (https://github.com/AtsushiSakai)**
-- *If this sensor is a priority for your team, please consider coding the whole system in C++ to integrate it into your robot code as a whole. That being said, this repository is primarily for those looking to work in Java/Python*
+
+*If this sensor is a priority for your team, please consider coding the whole system in C++ to integrate it into your robot code as a whole. That being said, this repository is primarily for those looking to work in Java/Python*
 ## Usage
 Use [WPILib.py](http://wpilibpi.local/) to connect with the Raspberry PI. 
 *Login Credentials:*
